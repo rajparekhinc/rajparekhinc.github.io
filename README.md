@@ -5,4 +5,4 @@ Raj Parekh Inc. is an idea of person, creating a whole portfolio of technical kn
 ## Eesti Expert
 Expert in English-Estonian translations and grammar.
 
-- (Access Here)[https://chat.openai.com/g/g-JRUE7CNfQ-eesti-expert]
+- [Access Here](https://chat.openai.com/g/g-JRUE7CNfQ-eesti-expert)https://chat.openai.com/g/g-JRUE7CNfQ-eesti-expert
